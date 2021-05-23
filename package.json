@@ -1,7 +1,7 @@
 {
   "name": "fairent",
   "version": "1.0.0",
-  "description": "A web app to make challeneging unfair rent increases easier.",
+  "description": "A web app to make challenging unfair rent increases easier.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
